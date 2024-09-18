@@ -17,7 +17,7 @@ This is the backend for the Email Guesser application. It provides an API endpoi
 
 `npm install`
 
-### Strting Server
+### Starting Server
 
 `node server`
 
